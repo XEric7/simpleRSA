@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tool.h": "c",
+        "typeinfo": "c",
+        "random": "c",
+        "ranges": "c"
+    }
+}
